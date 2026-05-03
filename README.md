@@ -66,7 +66,9 @@ Violations were highest during weekdays, especially in the middle of the week. W
 
 ## Conclusion
 
+This analysis shows that parking violations in New York City are concentrated around specific violation types, locations, and times. Violations were most common during weekday daytime hours, which may be connected to higher traffic levels, increased parking demand, and active enforcement during workday hours.
 
+These findings suggest that drivers should be especially careful when parking during weekday daytime hours and on streets with a high number of recorded violations.
 ## Project Files
 
 ```text
