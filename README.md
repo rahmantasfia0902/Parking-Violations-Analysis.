@@ -46,24 +46,6 @@ Due to file size, the raw dataset is not included in this repository. The data c
 - Jupyter Notebook
 - GitHub
 
-## Project Files
-
-```text
-parking-violations-analysis/
-│
-├── README.md
-├── parking_violations_analysis.ipynb
-├── requirements.txt
-│
-├── images/
-│   ├── top_violations.png
-│   ├── top_streets.png
-│   ├── violations_by_hour.png
-│   └── violations_by_day.png
-│
-└── data/
-    └── README.md
-
 ## Key Findings
 
 ### 1. Most Common Parking Violations
@@ -83,6 +65,27 @@ Parking violations were most common during daytime hours, especially between app
 Violations were highest during weekdays, especially in the middle of the week. Weekend violations were much lower compared to weekdays.
 
 ## Conclusion
+
+
+## Project Files
+
+```text
+parking-violations-analysis/
+│
+├── README.md
+├── parking_violations_analysis.ipynb
+├── requirements.txt
+│
+├── images/
+│   ├── top_violations.png
+│   ├── top_streets.png
+│   ├── violations_by_hour.png
+│   └── violations_by_day.png
+│
+└── data/
+    └── README.md
+
+
 
 This analysis shows that parking violations in New York City are concentrated around specific violation types, locations, and times. Violations were most common during weekday daytime hours, which may be connected to higher traffic levels, increased parking demand, and active enforcement during workday hours.
 
